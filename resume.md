@@ -15,12 +15,12 @@ Experienced software engineer with a passion for developing innovative solutions
 
 ## Skills
 
-- Programming Languages: JavaScript, Python, Java, C++
-- Frontend: HTML, CSS, React, Angular
+- Programming Languages: Java, JavaScript, Python
+- Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express, Django
-- Databases: MongoDB, MySQL, PostgreSQL
+- Databases: PostgreSQL, ElasticSearch, Prometheus
 - Cloud Technologies: AWS, Azure, Google Cloud Platform
-- Version Control: Git, GitHub
+- Version Control: Git, BitBucket
 - Agile Methodologies: Scrum, Kanban
 
 ---
@@ -44,9 +44,9 @@ Experienced software engineer with a passion for developing innovative solutions
 
 ## Education
 
-### Bachelor of Science in Computer Science
-**University Name** - Location | Graduation Year
-- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Systems.
+### Bachelor in Applied Mathematics
+Technical University of Sofia - Sofia | 2011
+- Relevant coursework: Data Structures, Algorithms, Java
 
 ---
 
@@ -68,15 +68,15 @@ Experienced software engineer with a passion for developing innovative solutions
 
 ## Certifications
 
-- AWS Certified Developer - Associate
-- Scrum Master Certification
+- Kotlin for Java Developers
 
 ---
 
 ## Languages
 
+- Bulgarian (native)
 - English (Fluent)
-- Spanish (Intermediate)
+- German (Intermediate)
 
 ---
 
